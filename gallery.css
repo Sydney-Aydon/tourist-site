@@ -29,9 +29,10 @@
 }
 
 .image {
-    width: 25%;
-    height: 50%;
+    width: 20%;
+    height: 40%;
     float: left;
+    margin: 0.5rem;
 }
 
 .footer {
