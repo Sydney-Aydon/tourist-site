@@ -1,0 +1,18 @@
+body{
+    
+    background-size: cover;
+    background-image: url("Raft1.jpg");
+    
+}
+.Title{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top:15rem;
+    text-align: center;
+    font-size: 10rem;
+    color: black
+}
+li{
+    text-align: left;
+    font-size: 5rem;
+    color: black;
+}
